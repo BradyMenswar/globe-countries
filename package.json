@@ -1,7 +1,7 @@
 {
 	"name": "globe-countries",
 	"version": "0.1.0",
-	"homepage": "https://bradymenswar.github.io/country-checker/",
+	"homepage": "https://bradymenswar.github.io/globe-countries/",
 	"private": false,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
