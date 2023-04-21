@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/country-checker/static/css/main.becb586e.css",
+    "main.js": "/country-checker/static/js/main.a87f59de.js",
+    "static/media/countries.geojson": "/country-checker/static/media/countries.df6c8e73ef11e9af3cee.geojson",
+    "index.html": "/country-checker/index.html",
+    "main.becb586e.css.map": "/country-checker/static/css/main.becb586e.css.map",
+    "main.a87f59de.js.map": "/country-checker/static/js/main.a87f59de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becb586e.css",
+    "static/js/main.a87f59de.js"
+  ]
+}
